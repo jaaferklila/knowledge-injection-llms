@@ -19,7 +19,8 @@ Ce dépôt est **open source** : vous pouvez utiliser mes présentations comme v
 
 ### 1. Présentation 13
 - 📄 Contenu :  
-  - *Memorizing is Not Enough: Deep Knowledge Injection Through Reasoning and External Knowledge Integration in Large Language Models: A Survey on Methods, Challenges, and Future Directions*  
+  - *Memorizing is Not Enough: Deep Knowledge Injection Through Reasoning
+  -  *External Knowledge Integration in Large Language Models: A Survey on Methods, Challenges, and Future Directions*  
   - *Injecting Structured Knowledge into LLMs via Graph Neural Networks*
 - 📊 Fichier : `présentation13.pptx`
 - 🧠 Notes personnelles et explications : résumé des idées principales et schémas simplifiés pour compréhension.
